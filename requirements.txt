@@ -88,7 +88,6 @@ notify2==0.3.1
 numpy==1.18.2
 oauthlib==3.1.0
 opencv-contrib-python==4.2.0.34
-opencv-contrib-python-nonfree==4.1.1.1
 opencv-python==4.2.0.34
 opencv-python-headless==4.2.0.34
 opt-einsum==3.2.1
