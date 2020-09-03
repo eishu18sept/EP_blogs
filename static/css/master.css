@@ -5,6 +5,7 @@
 
 html,
 body {
+  padding: 20px;
   height: 100%;
   width: 100%;
   overflow: hidden;
@@ -15,6 +16,7 @@ body {
 
 #note {
   position: absolute;
+  padding: 20px;
   color: rgba(249,241,204,1);
   left: 0;
   right: 0;
